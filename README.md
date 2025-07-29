@@ -1,6 +1,7 @@
-```markdown
-# 🚀 Rust Web Server
 
+## 🚀 Web Server using Rust
+
+```markdown
 A blazing-fast, lightweight, and minimal web server written in Rust using [Axum](https://docs.rs/axum) / [Actix Web](https://actix.rs/) / [Hyper](https://docs.rs/hyper) (choose your framework). This project demonstrates how to build a RESTful API with modern async Rust.
 
 ## 📦 Features
